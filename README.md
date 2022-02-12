@@ -1,2 +1,3 @@
 # msern
- MS SQLSERVER, Restful Web Api, NodeJS and React Front-End
+NodeJS, JavaScript, ReacJS and Wordpress
+ ReactJS WP Theme developed with WP Wep Api @ Backend.
