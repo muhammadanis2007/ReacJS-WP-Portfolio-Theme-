@@ -1,3 +1,3 @@
-# msern
-NodeJS, JavaScript, ReacJS and Wordpress
- ReactJS WP Theme developed with WP Wep Api @ Backend.
+# ReactJS WP THeme
+NodeJS, JavaScript, ReactJS and Wordpress
+ ReactJS WP Theme developed with WP Web Api @ Backend.
